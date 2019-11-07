@@ -2,4 +2,7 @@
 
 export.*
 /export1.*
-# Note: All the Python related line items are moved to its own level i.e. Python/.gitignore
+
+#Adding just these gitignore for already added file/dir will not remove it from remote
+\global.config
+coveragereport/
