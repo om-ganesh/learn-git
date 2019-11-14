@@ -1,0 +1,2 @@
+Testing git fetch v/s pull
+Running Git fetch from your local branch should not update this file to the local repo.
