@@ -16,3 +16,5 @@ node_modules/
 WebAccess/BluRingViewer/
 [Pp]ublish
 [Pp]ublish1/
+
+/package.lock
