@@ -1,0 +1,1 @@
+This change by dev2 should initiate conflict in PR
