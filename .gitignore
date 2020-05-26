@@ -1,5 +1,7 @@
 .vs/
-
+[Dd]ebug/
+[B]in/
+[Rr]elease
 export.*
 /export1.*
 
