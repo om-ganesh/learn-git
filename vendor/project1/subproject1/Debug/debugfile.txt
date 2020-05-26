@@ -1,0 +1,2 @@
+# In release 2012.1, Perforce added a long-overdue ignore feature. The steps to make use
+# of the new feature are as follows:
